@@ -1,0 +1,990 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <!--[if IE]><![endif]-->
+<link rel="preconnect" href="//www.watchgeneration.fr" />
+<link rel="dns-prefetch" href="//www.watchgeneration.fr" />
+<link rel="preconnect" href="//tools.macg.co" />
+<link rel="dns-prefetch" href="//tools.macg.co" />
+<link rel="preconnect" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="preconnect" href="//stats.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net" />
+<link rel="preconnect" href="//languages" />
+<link rel="dns-prefetch" href="//languages" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="shortcut icon" href="https://www.igen.fr/sites/all/themes/gsphere_theme/icons/igen/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Recevez chaque jour notre newsletter pour être tenu au courant de l&#039;actualité de WatchGeneration." />
+<meta name="keywords" content="iPhone,iPad,iPod,iOS,Apple TV,iTunes,Android,Google,iWatch,Apple" />
+<meta name="robots" content="follow, index" />
+<meta name="news_keywords" content="iPhone,iPad,iPod,iOS,Apple TV,iTunes,Android,Google,iWatch,Apple" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="rights" content="2021 - MacGeneration" />
+<link rel="canonical" href="https://www.igen.fr/newsletter/subscriptions" />
+<meta name="original-source" content="https://www.igen.fr" />
+<meta property="fb:admins" content="stephane.moussie" />
+<meta name="revisit-after" content="1 day" />
+<meta property="og:site_name" content="iGeneration" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.igen.fr/newsletter/subscriptions" />
+<meta property="og:title" content="Vos abonnements à des lettres d&#039;information" />
+<meta property="og:description" content="Tout sur l&#039;iPhone et l&#039;iPad : actualités, rumeurs, tests, trucs &amp; astuces, forums, petites annonces et guide d&#039;achat..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@macgeneration" />
+<meta property="og:street_address" content="90 rue jaboulay" />
+<meta name="twitter:site:id" content="2010105" />
+<meta property="og:locality" content="Lyon" />
+<meta property="og:region" content="Rhone" />
+<meta property="og:postal_code" content="69007" />
+<meta name="twitter:url" content="https://www.igen.fr/newsletter/subscriptions" />
+<meta property="og:country_name" content="FRANCE" />
+<meta name="twitter:title" content="Vos abonnements à des lettres d&#039;information" />
+<meta property="og:email" content="redaction@mgig.fr" />
+<meta name="twitter:description" content="Tout sur l&#039;iPhone et l&#039;iPad : actualités, rumeurs, tests, trucs &amp; astuces, forums, petites annonces et guide d&#039;achat..." />
+<meta property="og:phone_number" content="0472800214" />
+<meta property="og:locale" content="fr_FR" />
+<meta name="twitter:image:width" content="80" />
+<meta name="twitter:image:height" content="80" />
+<meta name="twitter:app:id:iphone" content="346175650" />
+<meta name="twitter:app:id:ipad" content="421359327" />
+  <title>Vos abonnements à des lettres d'information</title>
+
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.igen.fr/sites/all/themes/gsphere_theme/icons/igen/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://www.igen.fr/sites/all/themes/gsphere_theme/icons/igen/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://www.igen.fr/sites/all/themes/gsphere_theme/icons/igen/favicon-16x16.png">
+		<link rel="shortcut icon" href="https://www.igen.fr/sites/all/themes/gsphere_theme/icons/igen/favicon.ico">
+		<link rel="manifest" href="https://www.igen.fr/sites/all/themes/gsphere_theme/icons/igen/manifest.json">
+		<meta name="msapplication-config" content="https://www.igen.fr/sites/all/themes/gsphere_theme/icons/igenbrowserconfig.xml">
+		<link rel="mask-icon" href="https://www.igen.fr/sites/all/themes/gsphere_theme/icons/igen/safari-pinned-tab.svg" color="#329DFF">
+		<meta name="theme-color" content="#329DFF">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">  <meta name="smartbanner:title" content="iGeneration">
+        <meta name="smartbanner:author" content="MacGeneration">
+        <meta name="smartbanner:price" content="Téléchargez">
+        <meta name="smartbanner:price-suffix-google" content=" sur Google Play">
+        <meta name="smartbanner:icon-google" content="https://www.igen.fr/sites/all/themes/gsphere_theme/images/smartBanner/logo_android.png">
+        <meta name="smartbanner:button" content="Afficher">
+        <meta name="smartbanner:button-url-google" content="https://links.macg.io/HNFKP">
+        <meta name="smartbanner:enabled-platforms" content="android">
+  <link type="text/css" rel="stylesheet" href="/sites/www.igen.fr/files/advagg_css/css__B6ObDQ4xidIv99j4MzIcFCWpwgPZHToA7ulIRzAR46k__tsWn5o6cH0rZFbOfWIZZGGTrtF7fy0K5bBLusTb7bIE__aPiMkCj8eh8c7vWA-UgzcaecIz_aLB0a44A7g8Gly-s.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://tools.macg.co/onegeneration-sdk/css/banner.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/www.igen.fr/files/advagg_css/css__8G_KhNEQQnr64ryGMSvavmodDUQ7t1rQZk4gl69Ghuo__7g40UeM74r8hkrzDC6Hbb7RReIGNu-Jsb5XAbAPKIeA__aPiMkCj8eh8c7vWA-UgzcaecIz_aLB0a44A7g8Gly-s.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/www.igen.fr/files/advagg_css/css__s5zJv0bHtIPzbPg4N4ia97_TcSaIKXWfMW-17xWN6Z4__oJnVZy_KKyXDhAawGo5H22JxU7VLVAI5vradKCpHt4c__aPiMkCj8eh8c7vWA-UgzcaecIz_aLB0a44A7g8Gly-s.css" media="all" />
+
+  <script>(function(){/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+          'use strict';var g=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this||self,m=/^[\w+/_-]+[=]{0,2}$/,p=null,q=function(){},r=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";
+              if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b},u=function(a,b){function c(){}c.prototype=b.prototype;a.prototype=new c;a.prototype.constructor=a};var v=function(a,b){Object.defineProperty(l,a,{configurable:!1,get:function(){return b},set:q})};var y=function(a,b){this.b=a===w&&b||"";this.a=x},x={},w={};var aa=function(a,b){a.src=b instanceof y&&b.constructor===y&&b.a===x?b.b:"type_error:TrustedResourceUrl";if(null===p)b:{b=l.document;if((b=b.querySelector&&b.querySelector("script[nonce]"))&&(b=b.nonce||b.getAttribute("nonce"))&&m.test(b)){p=b;break b}p=""}b=p;b&&a.setAttribute("nonce",b)};var z=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^+new Date).toString(36)};var A=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)},B=function(a){this.a=a||l.document||document};B.prototype.appendChild=function(a,b){a.appendChild(b)};var C=function(a,b,c,d,e,f){try{var k=a.a,h=A(a.a,"SCRIPT");h.async=!0;aa(h,b);k.head.appendChild(h);h.addEventListener("load",function(){e();d&&k.head.removeChild(h)});h.addEventListener("error",function(){0<c?C(a,b,c-1,d,e,f):(d&&k.head.removeChild(h),f())})}catch(n){f()}};var ba=l.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ca=l.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),da=l.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),ea=function(a,b,c){this.b=a;this.f=new B(this.b);this.a=null;this.c=[];this.g=!1;this.i=b;this.h=c},F=function(a){if(a.b.body&&!a.g){var b=
+              function(){D(a);l.setTimeout(function(){return E(a,3)},50)};C(a.f,a.i,2,!0,function(){l[a.h]||b()},b);a.g=!0}},D=function(a){for(var b=G(1,5),c=0;c<b;c++){var d=H(a);a.b.body.appendChild(d);a.c.push(d)}b=H(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=G(100,110).toString()+"%";b.style.zIndex=G(2147483544,2147483644).toString();b.style["background-color"]=I(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=I(0,10,0,10,0,10);b.style.display=
+              "flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=H(a);c.style.width=G(80,85).toString()+"%";c.style.maxWidth=G(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=A(a.f.a,"IMG");d.className=z();d.src=ba;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=H(a),f=H(a);f.style["font-weight"]="bold";f.textContent=ca;var k=H(a);k.textContent=da;J(a,
+              e,f);J(a,e,k);J(a,c,d);J(a,c,e);J(a,b,c);a.a=b;a.b.body.appendChild(a.a);b=G(1,5);for(c=0;c<b;c++)d=H(a),a.b.body.appendChild(d),a.c.push(d)},J=function(a,b,c){for(var d=G(1,5),e=0;e<d;e++){var f=H(a);b.appendChild(f)}b.appendChild(c);c=G(1,5);for(d=0;d<c;d++)e=H(a),b.appendChild(e)},G=function(a,b){return Math.floor(a+Math.random()*(b-a))},I=function(a,b,c,d,e,f){return"rgb("+G(Math.max(a,0),Math.min(b,255)).toString()+","+G(Math.max(c,0),Math.min(d,255)).toString()+","+G(Math.max(e,0),Math.min(f,
+              255)).toString()+")"},H=function(a){a=A(a.f.a,"DIV");a.className=z();return a},E=function(a,b){0>=b||null!=a.a&&0!=a.a.offsetHeight&&0!=a.a.offsetWidth||(fa(a),D(a),l.setTimeout(function(){return E(a,b-1)},50))},fa=function(a){var b=a.c;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:g(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.c=[];(b=a.a)&&b.parentNode&&b.parentNode.removeChild(b);a.a=null};var ia=function(a,b,c,d,e){var f=ha(c),k=function(n){n.appendChild(f);l.setTimeout(function(){f?(0!==f.offsetHeight&&0!==f.offsetWidth?b():a(),f.parentNode&&f.parentNode.removeChild(f)):a()},d)},h=function(n){document.body?k(document.body):0<n?l.setTimeout(function(){h(n-1)},e):b()};h(3)},ha=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var K={},L=null;var M=function(){},N="function"==typeof Uint8Array,O=function(a,b){a.b=null;b||(b=[]);a.j=void 0;a.f=-1;a.a=b;a:{if(b=a.a.length){--b;var c=a.a[b];if(!(null===c||"object"!=typeof c||Array.isArray(c)||N&&c instanceof Uint8Array)){a.g=b-a.f;a.c=c;break a}}a.g=Number.MAX_VALUE}a.i={}},P=[],Q=function(a,b){if(b<a.g){b+=a.f;var c=a.a[b];return c===P?a.a[b]=[]:c}if(a.c)return c=a.c[b],c===P?a.c[b]=[]:c},R=function(a,b,c){a.b||(a.b={});if(!a.b[c]){var d=Q(a,c);d&&(a.b[c]=new b(d))}return a.b[c]};
+          M.prototype.h=N?function(){var a=Uint8Array.prototype.toJSON;Uint8Array.prototype.toJSON=function(){var b;void 0===b&&(b=0);if(!L){L={};for(var c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),d=["+/=","+/","-_=","-_.","-_"],e=0;5>e;e++){var f=c.concat(d[e].split(""));K[e]=f;for(var k=0;k<f.length;k++){var h=f[k];void 0===L[h]&&(L[h]=k)}}}b=K[b];c=[];for(d=0;d<this.length;d+=3){var n=this[d],t=(e=d+1<this.length)?this[d+1]:0;h=(f=d+2<this.length)?this[d+2]:0;k=n>>2;n=(n&
+              3)<<4|t>>4;t=(t&15)<<2|h>>6;h&=63;f||(h=64,e||(t=64));c.push(b[k],b[n],b[t]||"",b[h]||"")}return c.join("")};try{return JSON.stringify(this.a&&this.a,S)}finally{Uint8Array.prototype.toJSON=a}}:function(){return JSON.stringify(this.a&&this.a,S)};var S=function(a,b){return"number"!==typeof b||!isNaN(b)&&Infinity!==b&&-Infinity!==b?b:String(b)};M.prototype.toString=function(){return this.a.toString()};var T=function(a){O(this,a)};u(T,M);var U=function(a){O(this,a)};u(U,M);var ja=function(a,b){this.c=new B(a);var c=R(b,T,5);c=new y(w,Q(c,4)||"");this.b=new ea(a,c,Q(b,4));this.a=b},ka=function(a,b,c,d){b=new T(b?JSON.parse(b):null);b=new y(w,Q(b,4)||"");C(a.c,b,3,!1,c,function(){ia(function(){F(a.b);d(!1)},function(){d(!0)},Q(a.a,2),Q(a.a,3),Q(a.a,1))})};var la=function(a,b){V(a,"internal_api_load_with_sb",function(c,d,e){ka(b,c,d,e)});V(a,"internal_api_sb",function(){F(b.b)})},V=function(a,b,c){a=l.btoa(a+b);v(a,c)},W=function(a,b,c){for(var d=[],e=2;e<arguments.length;++e)d[e-2]=arguments[e];e=l.btoa(a+b);e=l[e];if("function"==r(e))e.apply(null,d);else throw Error("API not exported.");};var X=function(a){O(this,a)};u(X,M);var Y=function(a){this.h=window;this.a=a;this.b=Q(this.a,1);this.f=R(this.a,T,2);this.g=R(this.a,U,3);this.c=!1};Y.prototype.start=function(){ma();var a=new ja(this.h.document,this.g);la(this.b,a);na(this)};
+          var ma=function(){var a=function(){if(!l.frames.googlefcPresent)if(document.body){var b=document.createElement("iframe");b.style.display="none";b.style.width="0px";b.style.height="0px";b.style.border="none";b.style.zIndex="-1000";b.style.left="-1000px";b.style.top="-1000px";b.name="googlefcPresent";document.body.appendChild(b)}else l.setTimeout(a,5)};a()},na=function(a){var b=Date.now();W(a.b,"internal_api_load_with_sb",a.f.h(),function(){var c;var d=a.b,e=l[l.btoa(d+"loader_js")];if(e){e=l.atob(e);
+              e=parseInt(e,10);d=l.btoa(d+"loader_js").split(".");var f=l;d[0]in f||"undefined"==typeof f.execScript||f.execScript("var "+d[0]);for(;d.length&&(c=d.shift());)d.length?f[c]&&f[c]!==Object.prototype[c]?f=f[c]:f=f[c]={}:f[c]=null;c=Math.abs(b-e);c=1728E5>c?0:c}else c=-1;0!=c&&(W(a.b,"internal_api_sb"),Z(a,Q(a.a,6)))},function(c){Z(a,c?Q(a.a,4):Q(a.a,5))})},Z=function(a,b){a.c||(a.c=!0,a=new l.XMLHttpRequest,a.open("GET",b,!0),a.send())};(function(a,b){l[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];l[a]=q;b.apply(null,d)}})("__d3lUW8vwsKlB__",function(a){"function"==typeof window.atob&&(a=window.atob(a),a=new X(a?JSON.parse(a):null),(new Y(a)).start())});}).call(this);
+
+      window.__d3lUW8vwsKlB__("WyIxOGVkNDVmZDE3OGFmZjgwIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2YvQUdTS1d4VnM2dEM0a2o1NTYyVDBrWmpMV1ZCVXJiOG9DS3dPU1EtS29HOTFrZlYzNkpib19yRmJ6TExDalNuZl9GQTVoVmVLeEtOQ3o3X2UxVGZub3F6YmhSRVx1MDAzZCJdCixbMjAsImRpdi1ncHQtYWQiLDEwMCwiTVRobFpEUTFabVF4TnpoaFptWTRNQVx1MDAzZFx1MDAzZCIsW251bGwsbnVsbCxudWxsLCJodHRwczovL3d3dy5nc3RhdGljLmNvbS8wZW1uL2YvcC8xOGVkNDVmZDE3OGFmZjgwLmpzP3VzcXBcdTAwM2RDQTAiXQpdCiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hVTEFiRWdPajRhbTdRelNoQ0Y5UUNqSktqMkNTTUNtWUM2VTNzcjNfZ21mSTh4SDdwRW1uWXlrZmFubVJiQTgwNEZqM0tBa0d0SHM5QWpUVU1mP2FiXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2wvQUdTS1d4VjBRRFEzbThfSnJtaXlvU0QxdUI0MS1CcWViSGx5ODg2X2VWNEwxMFBWQnZyUHFiLTN3QkQwNF93Sldkb2xadmlWSU5kVE5yenJ5bFBqWXJtcD9hYlx1MDAzZDJcdTAwMjZzYmZcdTAwM2QxIiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hYSzh5eXBxTTZQTkFRbFpaUVAyaEl2NWQtd1VnaE5rNDYtaU9IWlg5eGtYM2xSX2VmQmNhOHQyVzR5b3l3VUxkTVllQlJGM1AtR0swVWQ4UTFxP3NiZlx1MDAzZDIiXQo=");
+  </script>
+  <script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+  <script type="text/javascript">
+    window.googletag = window.googletag || {cmd: []};
+  </script>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_domain_name = "www.igen.fr";window.google_analytics_uacct = "UA-4735137-4";
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/www.igen.fr/files/advagg_js/js__VA4veyd5NaPtDTuBhvTnAnCIFQMEaq23HwKWB-pUP2c__dvTI4UVuysru2tScgkUN73ekdfegtoEbZM5OnBVZpbs__aPiMkCj8eh8c7vWA-UgzcaecIz_aLB0a44A7g8Gly-s.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+googletag.slots = googletag.slots || {};
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/www.igen.fr/files/advagg_js/js__9ici6QMeDS-cROq8R0RhuICsMGMP2wcJZNQQFsqQi44__kScSwG4RXGl1LXnj4qqt0ZxtNX4Gh2TK5W-o8Uup4SA__aPiMkCj8eh8c7vWA-UgzcaecIz_aLB0a44A7g8Gly-s.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+;googletag.cmd.push(function(){var e=googletag.sizeMapping().addSize([1084,460],[[336,280],[300,250]]).addSize([320,300],[300,250]).addSize([0,0],[250,250]).build();googletag.slots['300_igen_news']=googletag.defineSlot('/1021716/300_igen_news/1427262355',[[336,280],[300,250],[250,250]],'dfp-ad-300_igen_news').addService(googletag.pubads()).defineSizeMapping(e)});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.slots["igen_oop"] = googletag.defineOutOfPageSlot("/1021716/oop-igen", "dfp-ad-igen_oop")
+  .addService(googletag.pubads());});
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+;googletag.cmd.push(function(){var e=googletag.sizeMapping().addSize([980,300],[[970,250],[970,90],[970,250],[970,90],[728,90]]).addSize([740,200],[[728,200],[728,90]]).addSize([350,200],[[336,280],[300,250]]).addSize([0,0],[250,250]).build();googletag.slots['728_igen_news_v2']=googletag.defineSlot('/1021716/728_igen_news_V2',[[970,250],[970,90],[728],[200],[728,90],[336,280],[300,250],[250,250]],'dfp-ad-728_igen_news_v2').addService(googletag.pubads()).setTargeting('pos','ATF').setTargeting('user','Anonyme').defineSizeMapping(e)});
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/www.igen.fr/files/advagg_js/js__ylcODMPWo_13MLom5ZqWGQsJNZKFh4uV-YcKFVTNVmY__udl9eol5cfcZrwikn8Dwm7QH7SvVG2cLtO8U9MwiAl0__aPiMkCj8eh8c7vWA-UgzcaecIz_aLB0a44A7g8Gly-s.js"></script>
+<script type="text/javascript" src="https://tools.macg.co/onegeneration-sdk/js/onegeneration-sdk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+;googletag.cmd.push(function(){googletag.pubads().enableAsyncRendering();googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.pubads().enableLazyLoad({fetchMarginPercent:500,renderMarginPercent:200,mobileScaling:2.0});googletag.enableServices()});
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/www.igen.fr/files/advagg_js/js__K-jMPgtWmIX7ZHhfvnZQjk_PLtnt2PhajF8bsl7hPq0__yAKH0cN-lvWoYUY693nVdUcv9OlkMP0izrgN8njI4z4__aPiMkCj8eh8c7vWA-UgzcaecIz_aLB0a44A7g8Gly-s.js"></script>
+<script type="text/javascript" src="/sites/www.igen.fr/files/advagg_js/js__dTRSuW27RiJte-z_L4Px_rno5dZsdWKiU3HtuBiTSmc__1heMEGpuuHZnihe04BOr3X2vIc8bRMaEUwDqgCjyFsM__aPiMkCj8eh8c7vWA-UgzcaecIz_aLB0a44A7g8Gly-s.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.igen.fr/sites/www.igen.fr/files/googleanalytics/analytics.js?qna3s1","ga");ga("create", "UA-4735137-4", {"cookieDomain":"www.igen.fr"});ga("require", "displayfeatures");ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gsphere_theme","theme_token":"HrCsSCq2sO1orqk-d25N8mFNcc5LuQwtCKARr6I9N_4","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"https:\/\/tools.macg.co\/onegeneration-sdk\/css\/banner.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/gsphere_theme\/igen.css":1},"js":{"sites\/all\/modules\/macg_push\/js\/push_config.js":1,"sites\/all\/themes\/gsphere_theme\/js\/ajax_load.js":1,"sites\/all\/themes\/gsphere_theme\/js\/removeClass.js":1,"sites\/all\/themes\/gsphere_theme\/js\/menu.js":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/form.js":1,"https:\/\/tools.macg.co\/onegeneration-sdk\/js\/onegeneration-sdk.js":1,"public:\/\/languages\/fr_xZ703n1d7Aqr-T2f6QH0fFIuJdPokAiLRn8unoctKFc.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1},"nodeInformations":{"nodeid":"subscriptions"},"urlIsAjaxTrusted":{"\/newsletter\/subscriptions":true},"macgPush":{"websiteName":"iGeneration","appName":"Web - iGeneration","baseUrl":"https:\/\/www.igen.fr","websitePushID":"web.fr.igen.push","swPath":"\/pwa\/serviceworker\/js","userId":0,"userName":null,"role":{"1":"anonymous user"},"club":false,"displayCondition":{"type":"timer","nbr":5000},"message":"Recevez directement les notifications sur votre navigateur !","accept":"Autoriser","deny":"Refuser"}});
+//--><!]]>
+</script>
+
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-newsletter page-newsletter-subscriptions" >
+  <a href="#content" class="skip">Aller au contenu principal</a>
+
+  <div class="region region-page-top">
+    <div id="dfp-ad-igen_oop-wrapper" class="dfp-tag-wrapper element-hidden">
+<div  id="dfp-ad-igen_oop" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-igen_oop");
+    });
+  </script>
+</div>
+</div>  </div>
+
+<header class="site-header">
+    <section class="first-header pas">
+        <div class="first-header-content wrapper flex-container align">
+            <div class="first-header-logo flex-container left">
+                <!-- Logo du site -->
+                <div class="logo" role="banner">
+                    <a href="/" class="h5-like" title="Retour à l’accueil">
+                        <span class="site-logo">iGeneration</span>
+                    </a>
+                </div>
+
+                <!-- Bouton du menu inter-site -->
+                <a id="menuLiensExternesButton" class="button-menu small-hidden tiny-hidden medium-hidden" title="Ouvrir le menu inter site">&nbsp;▼</a>
+            </div>
+
+            <div class="flex-container right">
+                <!-- Navigation intra-site -->
+                <nav class="small-hidden tiny-hidden medium-hidden" role="navigation" aria-label="Navigation principale">
+                    <ul id="main-menu" class="inline clearfix site-nav"><li class="menu-5570 first"><a href="https://www.igen.fr/actu">Actualités</a></li>
+<li class="menu-5572"><a href="https://www.igen.fr/tests">Tests</a></li>
+<li class="menu-5571"><a href="https://www.macg.co/galerie">Galerie</a></li>
+<li class="menu-6105"><a href="https://forums.macg.co" title="">Forums</a></li>
+<li class="menu-5575"><a href="https://www.igen.fr/contact">Contact</a></li>
+<li class="menu-5576 last"><a href="https://laboutique.igen.fr" title="">Nous soutenir</a></li>
+</ul>                </nav>
+
+
+                <!-- Bouton du menu mobile -->
+                <a id="menuButton" class="button-menu large-hidden" title="Ouvrir le menu">☰</a>
+            </div>
+        </div>
+    </section>
+
+    <div id="menuLiensExternes" class="inter-site-menu center hide small-hidden tiny-hidden medium-hidden">
+        <nav class="ptm pbm txtcenter wrapper" role="navigation" aria-label="Navigation inter-site">
+            <ul id="menu-liens-externes" class="unstyled clearfix grid nav-liens-externes"><li class="menu-5564 first"><a href="https://www.macg.co/" title="">MacGeneration</a></li>
+<li class="menu-5566"><a href="https://www.watchgeneration.fr">WatchGeneration</a></li>
+<li class="menu-5567"><a href="https://ioccasion.fr/" title="">iOccasion</a></li>
+<li class="menu-5568"><a href="https://refurbgeneration.com/" title="">RefurbGeneration</a></li>
+<li class="menu-5569 last"><a href="https://shop.macg.co/" title="">Shop</a></li>
+</ul>        </nav>
+    </div>
+
+    <section class="second-header pas">
+        <div class="wrapper flex-container">
+            <!-- Gestion du compte -->
+            <div class="left userAccount">
+                                    <a href="/user/login" title="Se connecter" class="icone-user">Se connecter/S’inscrire</a>
+                            </div>
+
+            <!-- Annonces importantes -->
+                            <div class="center w60 txtcenter medium-hidden small-hidden tiny-hidden">
+    <span class="icone-star"></span>
+            <a href="https://www.macg.co/macgeneration/2021/01/une-pomme-plus-verte-notre-nouvelle-serie-pour-les-membres-du-club-igen-118969">Découvrez notre dernière série : Apple et l'écologie !</a>
+    </div>
+
+            
+            <!-- Bouton de recherche mobile -->
+            <a id="searchButton" class="icone-search right small-hidden medium-hidden large-hidden" title="Ouvrir la recherche"></a>
+
+            <!-- Recherche mobile -->
+            <div id="searchInput" class="flex-container searchBlock small-hidden medium-hidden large-hidden hide">
+                <div class="first-header-search">
+                    <form action="/newsletter/subscriptions" method="post" id="search-api-page-search-form-recherche" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-2">
+  <label class="element-invisible" for="edit-keys-2">Saisissez vos mots-clés </label>
+ <input placeholder="Rechercher..." type="text" id="edit-keys-2" name="keys_2" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="id" value="2" />
+<label><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1664 1664"><path d="M1152 704q0-185-131.5-316.5T704 256T387.5 387.5T256 704t131.5 316.5T704 1152t316.5-131.5T1152 704zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124q-143 0-273.5-55.5t-225-150t-150-225T0 704t55.5-273.5t150-225t225-150T704 0t273.5 55.5t225 150t150 225T1408 704q0 220-124 399l343 343q37 37 37 90z"/></svg><input value=" " type="submit" id="edit-submit-2" name="op" class="form-submit" /></label><input type="hidden" name="form_build_id" value="form-p2veJdYbMgIIuRL_WdWGg0JQgJAmIPdmGce7-2CQrRI" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_recherche" />
+</div></form>                </div>
+            </div>
+
+            <!-- Recherche -->
+            <div class="right flex-container searchBlock tiny-hidden">
+                <!--<a href="/recherche/" title="Rechercher" class="icone-search"></a>-->
+                <div class="first-header-search">
+                    <form action="/newsletter/subscriptions" method="post" id="search-api-page-search-form-recherche--2" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-2">
+  <label class="element-invisible" for="edit-keys-2--2">Saisissez vos mots-clés </label>
+ <input placeholder="Rechercher..." type="text" id="edit-keys-2--2" name="keys_2" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="id" value="2" />
+<label><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1664 1664"><path d="M1152 704q0-185-131.5-316.5T704 256T387.5 387.5T256 704t131.5 316.5T704 1152t316.5-131.5T1152 704zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124q-143 0-273.5-55.5t-225-150t-150-225T0 704t55.5-273.5t150-225t225-150T704 0t273.5 55.5t225 150t150 225T1408 704q0 220-124 399l343 343q37 37 37 90z"/></svg><input value=" " type="submit" id="edit-submit-2--2" name="op" class="form-submit" /></label><input type="hidden" name="form_build_id" value="form-VCjEGYoXcScWbKAs9xLSXH5Df1sRx6R7RB-NrviSJ4E" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_recherche" />
+</div></form>                </div>
+            </div>
+        </div>
+    </section>
+</header>
+
+<!-- Menu mobile -->
+<div id="menuResponsive" class="site-mobile-menu center large-hidden hide">
+    <nav>
+        <ul id="menu-liens-externes" class="links inline clearfix site-nav-responsive nav-liens-externes"><li class="menu-5564 first"><a href="https://www.macg.co/" title="">MacGeneration</a></li>
+<li class="menu-5566"><a href="https://www.watchgeneration.fr">WatchGeneration</a></li>
+<li class="menu-5567"><a href="https://ioccasion.fr/" title="">iOccasion</a></li>
+<li class="menu-5568"><a href="https://refurbgeneration.com/" title="">RefurbGeneration</a></li>
+<li class="menu-5569 last"><a href="https://shop.macg.co/" title="">Shop</a></li>
+</ul>        <ul id="main-menu" class="links inline clearfix site-nav-responsive nav-main-menu"><li class="menu-5570 first"><a href="https://www.igen.fr/actu">Actualités</a></li>
+<li class="menu-5572"><a href="https://www.igen.fr/tests">Tests</a></li>
+<li class="menu-5571"><a href="https://www.macg.co/galerie">Galerie</a></li>
+<li class="menu-6105"><a href="https://forums.macg.co" title="">Forums</a></li>
+<li class="menu-5575"><a href="https://www.igen.fr/contact">Contact</a></li>
+<li class="menu-5576 last"><a href="https://laboutique.igen.fr" title="">Nous soutenir</a></li>
+</ul>    </nav>
+</div>
+
+<!-- Publicité ou haut de l'habillage -->
+    
+                <div class="wrapper txtcenter pts">
+            <div id="dfp-ad-728_igen_news_v2-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-728_igen_news_v2" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-728_igen_news_v2");
+    });
+  </script>
+</div>
+</div>        </div>
+    
+    
+<!-- Wrapper général -->
+<div class="site-wrapper flex-container pts" id="wrapperGeneral">
+    <!-- Habillage barre gauche -->
+    
+    <!-- Contenu principal -->
+    <main class="site-main iGeneration" role="main">
+        
+                                <section class="grid-2-small-1 has-gutter">
+                    <section class="content two-thirds" id="content">
+                
+
+                                                                <section class="section">
+                            <div class="banner pas">
+                                <h1 class="icone-mail">Newsletter</h1>
+                            </div>
+                        <section class="pas">
+                                                                                                                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <form action="/newsletter/subscriptions" method="post" id="simplenews-subscriptions-page-form" accept-charset="UTF-8"><div><fieldset class="form-wrapper" id="edit-subscriptions"><legend><span class="fieldset-legend">Gérez vos abonnements aux lettres d’information</span></legend><div class="fieldset-wrapper"><div class="fieldset-description">Sélectionnez les lettres d’information auxquelles vous souhaitez vous abonner ou vous désabonner.</div><div id="edit-newsletters" class="form-checkboxes"><div class="form-item form-type-checkbox form-item-newsletters-1">
+ <input type="checkbox" id="edit-newsletters-1" name="newsletters[1]" value="1" class="form-checkbox" />  <label class="option" for="edit-newsletters-1">Les actus du jour </label>
+
+</div>
+<div class="form-item form-type-checkbox form-item-newsletters-7884">
+ <input type="checkbox" id="edit-newsletters-7884" name="newsletters[7884]" value="7884" class="form-checkbox" />  <label class="option" for="edit-newsletters-7884">Offres Partenaires </label>
+
+</div>
+</div><div class="form-item form-type-textfield form-item-mail">
+  <label for="edit-mail">Courriel <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-mail" name="mail" value="" size="20" maxlength="128" class="form-text required" />
+</div>
+</div></fieldset>
+<input type="hidden" name="form_build_id" value="form-BPfiBZpdAgc-2hUNesSitLkOujDZtOEKBl98TDOw1uU" />
+<input type="hidden" name="form_id" value="simplenews_subscriptions_page_form" />
+<input type="submit" id="edit-subscribe" name="op" value="S&#039;abonner" class="form-submit" /><input type="submit" id="edit-unsubscribe" name="op" value="Se désabonner" class="form-submit" /></div></form>  </div>
+</div>
+  </div>
+                    </section>
+                                                                    </section>
+            </section>
+                                                                            <section class="site-sidebar one-third" role="complementary">
+                                  <div class="region region-sidebar-right">
+    <div id="block-gsphere-sidebarlastnews" class="block block-gsphere">
+
+    
+  <div class="content">
+    <section class="mbs section sidebar tiny-hidden small-hidden">
+    <div class="banner pas">
+        <a href="/actu">
+            <h1 class="icone-actus">Actualités</h1>
+        </a>
+    </div>
+    <div class="sidebar-content">
+                <div class="center">
+            <div class="ad pts pbs">
+              <div id="dfp-ad-300_igen_news-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-300_igen_news" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-300_igen_news");
+    });
+  </script>
+</div>
+</div>            </div>
+        </div>
+                                        <article class="sidebar-article important">
+                      <a href="https://www.macg.co/logiciels/2021/01/setapp-offrez-vous-lacces-ilimite-des-centaines-dapplications-119183" class="flex-container pas">
+                          <span class="sidebar-artitle">Setapp : utilisez les meilleurs apps pour Mac sans vous ruiner 📌</span>
+                          <div class="sidebar-meta w100 txtright">
+                                                          <time class="sidebar-time" datetime="2021-01-31T16:05:54Z">
+                                16:05                              </time>
+                          </div>
+                      </a>
+                  </article>
+                                                        <article class="sidebar-article normal">
+                      <a href="https://www.macg.co/galerie/2021/01/intel-ou-macintosh-demandez-la-direction-119371" class="flex-container pas">
+                          <span class="sidebar-artitle">Intel ou Macintosh ? Demandez la direction !</span>
+                                                        <div class="sidebar-meta w100 txtright">
+                                  <span class="icone-galerie"></span>|
+                                  <time class="sidebar-time" datetime="2021-01-31T13:24:52Z">
+                                    13:24                                  </time>
+                                  <span class="sidebar-comment"> | 56 commentaires</span>
+                              </div>
+                                                </a>
+                  </article>
+                                            <article class="sidebar-article important">
+                      <a href="https://www.igen.fr/services/2020/10/apple-tv-prolonge-lannee-gratuite-jusqua-fin-fevrier-2021-118053" class="flex-container pas">
+                          <span class="sidebar-artitle">Apple TV+ prolonge l'année gratuite jusqu'en juillet 2021 🆕</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-31T09:36:38Z">
+                                09:36                              </time>
+                              <span class="sidebar-comment"> | 168 commentaires</span>
+                          </div>
+                                                </a>
+                  </article>
+                                            <article class="sidebar-article normal">
+                      <a href="https://www.igen.fr/services/2021/01/apple-tv-achete-le-remake-americain-de-la-famille-belier-120353" class="flex-container pas">
+                          <span class="sidebar-artitle">Apple TV+ achète le remake américain de La Famille Bélier</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-30T22:53:56Z">
+                                22:53                              </time>
+                              <span class="sidebar-comment"> | 21 commentaires</span>
+                          </div>
+                                                </a>
+                  </article>
+                                            <article class="sidebar-article normal">
+                      <a href="https://www.igen.fr/services/2021/01/apple-fait-un-credit-sur-apple-tv-pour-les-abonnes-one-120351" class="flex-container pas">
+                          <span class="sidebar-artitle">Apple fait un crédit sur Apple TV+ pour les abonnés One</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-30T11:35:00Z">
+                                30/01 11:35                              </time>
+                              <span class="sidebar-comment"> | 46 commentaires</span>
+                          </div>
+                                                </a>
+                  </article>
+                                            <article class="sidebar-article important">
+                      <a href="https://www.igen.fr/tests/2021/01/test-du-netgear-nighthawk-m5-un-routeur-mobile-wi-fi-6-desservi-par-les-reseaux-5g-120291" class="flex-container pas">
+                          <span class="sidebar-artitle">Test du Netgear Nighthawk M5 : un routeur mobile Wi-Fi 6… desservi par les réseaux 5G</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                                <span class="icone-club-grande"></span>|
+                                                            <time class="sidebar-time" datetime="2021-01-30T11:00:55Z">
+                                30/01 11:00                              </time>
+                              <span class="sidebar-comment"> | 13 commentaires</span>
+                          </div>
+                                                </a>
+                  </article>
+                                            <article class="sidebar-article important">
+                      <a href="https://www.igen.fr/services/2021/01/soldes-nordvpn-les-24-mois-dabonnement-tout-petit-prix-cest-maintenant-120331" class="flex-container pas">
+                          <span class="sidebar-artitle">Soldes NordVPN : les 24 mois d'abonnement à tout petit prix, c'est maintenant !  📣</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-30T09:34:00Z">
+                                30/01 09:34                              </time>
+                              <span class="sidebar-comment"></span>
+                          </div>
+                                                </a>
+                  </article>
+                                            <article class="sidebar-article normal">
+                      <a href="https://www.igen.fr/app-store/2021/01/telegram-importe-les-conversations-de-whatsapp-120347" class="flex-container pas">
+                          <span class="sidebar-artitle">Telegram importe les historiques de conversation de WhatsApp</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-29T22:19:00Z">
+                                29/01 22:19                              </time>
+                              <span class="sidebar-comment"> | 31 commentaires</span>
+                          </div>
+                                                </a>
+                  </article>
+                                            <article class="sidebar-article normal">
+                      <a href="https://www.igen.fr/app-store/2021/01/netflix-teste-un-minuteur-avant-de-sendorm-120345" class="flex-container pas">
+                          <span class="sidebar-artitle">Netflix teste un minuteur avant de s'endorm💤</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-29T21:00:06Z">
+                                29/01 21:00                              </time>
+                              <span class="sidebar-comment"> | 21 commentaires</span>
+                          </div>
+                                                </a>
+                  </article>
+                                            <article class="sidebar-article important">
+                      <a href="https://www.igen.fr/iphone/2021/01/le-lecteur-dempreintes-digitales-sous-lecran-du-futur-iphone-se-precise-120343" class="flex-container pas">
+                          <span class="sidebar-artitle">Le lecteur d'empreintes digitales sous l'écran du futur iPhone se précise</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-29T19:54:00Z">
+                                29/01 19:54                              </time>
+                              <span class="sidebar-comment"> | 73 commentaires</span>
+                          </div>
+                                                </a>
+                  </article>
+                                        <article class="sidebar-article">
+                  <a href="https://www.igen.fr/sondage/2021/01/est-ce-que-vous-consultez-les-etiquettes-confidentialite-de-lapp-store-120341" class="flex-container pas">
+                      <span class="sidebar-artitle">Est-ce que vous consultez les étiquettes confidentialité de l'App Store ?</span>
+                      <div class="sidebar-meta w100 txtright">
+                          <span class="icone-sondage"></span>|
+                          <time class="sidebar-time" datetime="2021-01-29T16:19:00Z">
+                              29/01 16:19                          </time>
+                          <span class="sidebar-comment"> | 33 commentaires</span>
+                      </div>
+                  </a>
+              </article>
+                                          <article class="sidebar-article normal">
+                      <a href="https://www.igen.fr/ios/2021/01/temps-decran-peut-enregistrer-la-navigation-safari-en-mode-prive-120339" class="flex-container pas">
+                          <span class="sidebar-artitle">Bug : Temps d'écran peut enregistrer la navigation Safari en mode privé</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-29T15:15:03Z">
+                                29/01 15:15                              </time>
+                              <span class="sidebar-comment"> | 20 commentaires</span>
+                          </div>
+                                                </a>
+                  </article>
+                                            <article class="sidebar-article normal">
+                      <a href="https://www.igen.fr/app-store/2021/01/apple-active-lauthentification-forte-pour-les-abonnements-app-store-en-europe-120337" class="flex-container pas">
+                          <span class="sidebar-artitle">Apple active l’authentification forte pour les abonnements App Store en Europe</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-29T14:34:00Z">
+                                29/01 14:34                              </time>
+                              <span class="sidebar-comment"> | 35 commentaires</span>
+                          </div>
+                                                </a>
+                  </article>
+                                                        <article class="sidebar-article normal">
+                      <a href="https://www.macg.co/video/2021/01/spot-un-ipod-de-2004-modifie-pour-jouer-de-la-musique-depuis-spotify-119343" class="flex-container pas">
+                          <span class="sidebar-artitle">sPot, un iPod de 2004 modifié pour jouer de la musique depuis… Spotify</span>
+                                                        <div class="sidebar-meta w100 txtright">
+                                  <span class="icone-galerie"></span>|
+                                  <time class="sidebar-time" datetime="2021-01-29T13:30:00Z">
+                                    29/01 13:30                                  </time>
+                                  <span class="sidebar-comment"> | 28 commentaires</span>
+                              </div>
+                                                </a>
+                  </article>
+                                            <article class="sidebar-article normal">
+                      <a href="https://www.igen.fr/ipad/2021/01/promotions-ipad-air-4-653-eu-ipad-pro-512-go-1-066-eu-120335" class="flex-container pas">
+                          <span class="sidebar-artitle">Promotions : iPad Air 4 à 653 €, iPad Pro 512 Go à 1 066 €</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-29T12:45:00Z">
+                                29/01 12:45                              </time>
+                              <span class="sidebar-comment"> | 0 commentaire</span>
+                          </div>
+                                                </a>
+                  </article>
+                                            <article class="sidebar-article normal">
+                      <a href="https://www.igen.fr/ios/2021/01/blastdoor-une-nouvelle-protection-pour-imessage-dans-ios-14-120333" class="flex-container pas">
+                          <span class="sidebar-artitle">« BlastDoor », une nouvelle protection pour iMessage dans iOS 14</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-29T11:45:00Z">
+                                29/01 11:45                              </time>
+                              <span class="sidebar-comment"> | 19 commentaires</span>
+                          </div>
+                                                </a>
+                  </article>
+                                            <article class="sidebar-article normal">
+                      <a href="https://www.igen.fr/ailleurs/2021/01/xiaomi-promet-la-vraie-recharge-sans-fil-dans-toute-une-piece-mais-sans-donner-de-date-120329" class="flex-container pas">
+                          <span class="sidebar-artitle">Xiaomi promet la vraie recharge sans fil dans toute une pièce, mais sans donner de date</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-29T10:03:42Z">
+                                29/01 10:03                              </time>
+                              <span class="sidebar-comment"> | 47 commentaires</span>
+                          </div>
+                                                </a>
+                  </article>
+                                                                                          <article class="sidebar-deal sidebar-article">
+                              <a href="https://liens2.macg.io/A5XMa">
+                                  <div class="deal-item pas">
+                                      <!--<div class="w20 imageDeal">-->
+                                      <!--<img src="--><!--">-->                                      <!--</div>-->
+                                      <div class="w100">
+                                          Un iPad à prix rêvé ? C’est possible avec les offres de financement de Bimp                                          <div class="txtright">
+                                              <span class="sidebar-comment">
+                                               Partenaire                                            </span>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </a>
+                          </article>
+                                                                                <article class="sidebar-article normal">
+                      <a href="https://www.igen.fr/ipad/2021/01/canalys-une-performance-de-haut-vol-pour-lipad-120327" class="flex-container pas">
+                          <span class="sidebar-artitle">Canalys : une performance de haut vol pour l'iPad au dernier trimestre 2020</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-29T07:00:00Z">
+                                29/01 07:00                              </time>
+                              <span class="sidebar-comment"> | 9 commentaires</span>
+                          </div>
+                                                </a>
+                  </article>
+                                            <article class="sidebar-article important">
+                      <a href="https://www.igen.fr/telecoms/2021/01/pas-de-partage-de-reseau-5g-entre-orange-et-free-mobile-120323" class="flex-container pas">
+                          <span class="sidebar-artitle">Pas de partage de réseau 5G entre Orange et Free Mobile</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-28T23:30:00Z">
+                                28/01 23:30                              </time>
+                              <span class="sidebar-comment"> | 73 commentaires</span>
+                          </div>
+                                                </a>
+                  </article>
+                                            <article class="sidebar-article normal">
+                      <a href="https://www.igen.fr/app-store/2021/01/google-translate-traduit-en-temps-reel-et-en-continu-120321" class="flex-container pas">
+                          <span class="sidebar-artitle">Google Translate traduit en temps réel et en continu</span>
+                                                    <div class="sidebar-meta w100 txtright">
+                                                            <time class="sidebar-time" datetime="2021-01-28T22:30:32Z">
+                                28/01 22:30                              </time>
+                              <span class="sidebar-comment"> | 31 commentaires</span>
+                          </div>
+                                                </a>
+                  </article>
+                                      <article class="sidebar-article ">
+              <a href="https://www.macg.co/podcasts/2021/01/kernel-panic-13-quoi-va-ressembler-la-voiture-apple-119159" class="flex-container pas">
+                <span class="sidebar-artitle">Kernel Panic #13 : à quoi va ressembler la voiture Apple ?</span>
+                  <div class="sidebar-meta w100 txtright">
+                    <span class="icone-club"></span>|
+                    <time class="sidebar-time" datetime="2021-01-23T10:00:02Z">
+                      23/01 10:00                    </time>
+                    <span class="sidebar-comment"> | 8 commentaires</span>
+                  </div>
+              </a>
+            </article>
+                      </div>
+</section>
+  </div>
+</div>
+<div id="block-gsphere-sidebarlasttests" class="block block-gsphere">
+
+    
+  <div class="content">
+    
+
+        <section class="section mts mbs">
+            <div class="banner pas">
+                <a href="/tests">
+                    <h1 class="icone-tests">Tests</h1>
+                </a>
+            </div>
+            <div class="featured-list grid-small-2">
+                                    <article class="pas">
+                        <a href="/tests/2021/01/test-du-netgear-nighthawk-m5-un-routeur-mobile-wi-fi-6-desservi-par-les-reseaux-5g-120291">
+                            <img class="featured-image" loading="lazy" src="https://cdn.mgig.fr/2021/01/mga-46bb141b-w375-w1500-w750_accroche.jpg" alt="Test du Netgear Nighthawk M5 : un routeur mobile Wi-Fi 6… desservi par les réseaux 5G"  aria-hidden="true" role="presentation">
+                            <h2>
+                                                                    <span class="icone-club-grande"></span>
+                                                                Test du Netgear Nighthawk M5 : un routeur mobile Wi-Fi 6… desservi par les réseaux 5G                            </h2>
+                        </a>
+                    </article>
+                                    <article class="pas">
+                        <a href="/tests/2021/01/test-du-support-de-voiture-magsafe-de-belkin-pour-iphone-12-119881">
+                            <img class="featured-image" loading="lazy" src="https://cdn.mgig.fr/2021/01/mga-2bcd120d-w375-w1500-w750_accroche.jpg" alt="Test du support de voiture MagSafe de Belkin pour iPhone 12"  aria-hidden="true" role="presentation">
+                            <h2>
+                                                                    <span class="icone-club-grande"></span>
+                                                                Test du support de voiture MagSafe de Belkin pour iPhone 12                            </h2>
+                        </a>
+                    </article>
+                                
+                    </div>
+</section>
+  </div>
+</div>
+<div id="block-gsphere-sidebargalerie" class="block block-gsphere">
+
+    
+  <div class="content">
+    <section class="section mts mbs">
+    <div class="banner pas">
+        <a href="http://www.macg.co/galerie">
+            <h1 class="icone-galerie">Galerie</h1>
+        </a>
+    </div>
+    <div class="flex-container align">
+                    <article class="pas">
+                <a href="https://www.macg.co/galerie/2021/01/intel-ou-macintosh-demandez-la-direction-119371">
+                    <img class="featured-image" loading="lazy" src="https://cdn.mgig.fr/2021/01/mga-6bd5fdac-w375-w1500-w750_accroche.jpg" alt="Intel ou Macintosh ? Demandez la direction !"  aria-hidden="true" role="presentation">
+                    <h2>
+                                                Intel ou Macintosh ? Demandez la direction !                    </h2>
+                </a>
+            </article>
+                    <article class="pas">
+                <a href="https://www.macg.co/galerie/2021/01/deballage-des-coussinets-de-rechange-pour-airpods-max-119359">
+                    <img class="featured-image" loading="lazy" src="https://cdn.mgig.fr/2021/01/mg-58ba1cc4-4f7d-4f56-93d1_accroche.jpg" alt="Déballage des coussinets de rechange pour AirPods Max"  aria-hidden="true" role="presentation">
+                    <h2>
+                                                Déballage des coussinets de rechange pour AirPods Max                    </h2>
+                </a>
+            </article>
+            </div>
+</section>
+  </div>
+</div>
+<div id="block-gsphere-sidebarlastothersite" class="block block-gsphere">
+
+    
+  <div class="content">
+    <section class="section mts mbs tiny-hidden small-hidden">
+    <div class="banner pas">
+        <h1 class="icone-MacGeneration">
+                                        Sur MacG et WatchG
+                                </h1>
+    </div>
+    <div class="sidebar-content">
+                                                        <article class="sidebar-article">
+                    <a href="http://www.macg.co/galerie/2021/01/intel-ou-macintosh-demandez-la-direction-119371" class="flex-container pas">
+                        <span class="sidebar-artitle">Intel ou Macintosh ? Demandez la direction !</span>
+                        <div class="right">
+                                                        <time class="sidebar-time" datetime="2021-01-31T13:24:52Z">13:24</time>
+                        </div>
+                    </a>
+                </article>
+                                                <article class="sidebar-article">
+                    <a href="http://www.watchgeneration.fr/tests/2021/01/test-de-la-mi-watch-lite-10991" class="flex-container pas">
+                        <span class="sidebar-artitle">Test de la Mi Watch Lite : une montre connectée basique</span>
+                        <div class="right">
+                                                        <time class="sidebar-time" datetime="2021-01-31T10:00:00Z">10:00</time>
+                        </div>
+                    </a>
+                </article>
+                                                <article class="sidebar-article">
+                    <a href="http://www.macg.co/aapl/2021/01/covid-19-tous-les-apple-store-de-centres-commerciaux-seront-fermes-119373" class="flex-container pas">
+                        <span class="sidebar-artitle">Covid-19 : tous les Apple Store de centres commerciaux sont fermés</span>
+                        <div class="right">
+                                                        <time class="sidebar-time" datetime="2021-01-30T17:22:00Z">30/01 17:22</time>
+                        </div>
+                    </a>
+                </article>
+                                                <article class="sidebar-article">
+                    <a href="http://www.macg.co/aapl/2021/01/lapple-store-de-bordeaux-va-fermer-pour-de-gros-travaux-119369" class="flex-container pas">
+                        <span class="sidebar-artitle">L'Apple Store de Bordeaux va moderniser son intérieur</span>
+                        <div class="right">
+                                                        <time class="sidebar-time" datetime="2021-01-30T12:09:00Z">30/01 12:09</time>
+                        </div>
+                    </a>
+                </article>
+                                                <article class="sidebar-article">
+                    <a href="http://www.macg.co/ailleurs/2021/01/tim-cook-salue-laction-de-joe-biden-pour-limmigration-119363" class="flex-container pas">
+                        <span class="sidebar-artitle">Tim Cook salue l'action de Joe Biden pour l'immigration</span>
+                        <div class="right">
+                                                        <time class="sidebar-time" datetime="2021-01-30T08:00:00Z">30/01 08:00</time>
+                        </div>
+                    </a>
+                </article>
+                                                <article class="sidebar-article">
+                    <a href="http://www.watchgeneration.fr/apple-watch/2021/01/promos-apple-watch-station-de-charge-49-eu-series-3-189-eu-et-series-5-4g-349-eu-en-cellulaires-10969" class="flex-container pas">
+                        <span class="sidebar-artitle">Promos Apple Watch : station de charge Apple à 49 €, SE à 269 €, Series 5 cellulaire à 349 €</span>
+                        <div class="right">
+                                                        <time class="sidebar-time" datetime="2021-01-29T08:03:00Z">29/01 08:03</time>
+                        </div>
+                    </a>
+                </article>
+                                                <article class="sidebar-article">
+                    <a href="http://www.watchgeneration.fr/audio/2021/01/ou-trouver-des-airpods-max-en-stock-10961" class="flex-container pas">
+                        <span class="sidebar-artitle">Où trouver des AirPods Max en stock 🆕</span>
+                        <div class="right">
+                                                        <time class="sidebar-time" datetime="2021-01-28T15:00:41Z">28/01 15:00</time>
+                        </div>
+                    </a>
+                </article>
+                                                <article class="sidebar-article">
+                    <a href="http://www.watchgeneration.fr/audio/2021/01/des-programmes-compatibles-avec-laudio-spatial-sur-mycanal-10993" class="flex-container pas">
+                        <span class="sidebar-artitle">Des programmes compatibles avec l'audio spatial sur myCanal</span>
+                        <div class="right">
+                                                        <time class="sidebar-time" datetime="2021-01-28T12:16:00Z">28/01 12:16</time>
+                        </div>
+                    </a>
+                </article>
+                                                <article class="sidebar-article">
+                    <a href="http://www.watchgeneration.fr/audio/2021/01/airpods-max-des-stocks-restreints-au-moins-jusquen-avril-10989" class="flex-container pas">
+                        <span class="sidebar-artitle">AirPods Max : des stocks restreints au moins jusqu'en avril 🆕</span>
+                        <div class="right">
+                                                        <time class="sidebar-time" datetime="2021-01-28T07:00:00Z">28/01 07:00</time>
+                        </div>
+                    </a>
+                </article>
+                                            </div>
+</section>
+  </div>
+</div>
+  </div>
+                            </section>
+                                </section>
+    </main>
+
+    <!-- Habillage barre droite -->
+    </div>
+
+<!-- Pied de page -->
+<footer class="site-footer mts" role="contentinfo">
+    <section class="first-footer tiny-hidden small-hidden">
+        <div class="wrapper txtcenter pas">
+            Continuez à lire iGeneration&nbsp;:&nbsp;
+
+            <a href="https://itunes.apple.com/fr/app/igeneration/id346175650?mt=8&uo=4&at=11lvtR" title="Télécharger l’application iGeneration pour iOS" class="icone-iphone">sur votre iPhone</a>
+            <a href="https://itunes.apple.com/fr/app/igeneration/id569502669?l=en&mt=12&uo=4&at=11lvtR" title="Télécharger l’application iGeneration pour macOS" class="icone-mac">sur votre Mac</a>
+            <a href="https://twitter.com/macgeneration" title="Suivre @macgeneration" class="icone-twitter">sur Twitter</a>
+            <a href="https://www.facebook.com/macgeneration" title="Suivre MacGeneration sur Facebook" class="icone-facebook">sur Facebook</a>
+            <a href="/rss" title="S’abonner au flux RSS" class="icone-rss">par RSS</a>
+            <a href="/newsletter/subscriptions" title="S’abonner à la newsletter" class="icone-mail">par mail</a>
+        </div>
+    </section>
+    <section class="first-footer medium-hidden large-hidden">
+        <div class="wrapper txtcenter pas">
+            Continuez à lire iGeneration&nbsp;:&nbsp;
+            <div class="grid">
+                <a href="https://itunes.apple.com/fr/app/igeneration/id346175650?mt=8&uo=4&at=11lvtR" title="Télécharger l’application iGeneration pour iOS" class="icone-iphone h3-like"></a>
+                <a href="https://itunes.apple.com/fr/app/igeneration/id569502669?l=en&mt=12&uo=4&at=11lvtR" title="Télécharger l’application iGeneration pour macOS" class="icone-mac h3-like"></a>
+                <a href="https://twitter.com/macgeneration" title="Suivre @macgeneration" class="icone-twitter h3-like"></a>
+                <a href="https://www.facebook.com/macgeneration" title="Suivre MacGeneration sur Facebook" class="icone-facebook h3-like"></a>
+                <a href="/rss" title="S’abonner au flux RSS" class="icone-rss h3-like"></a>
+                <a href="/newsletter/subscriptions" title="S’abonner à la newsletter" class="icone-mail h3-like"></a>
+            </div>
+        </div>
+    </section>
+
+    <section class="second-footer pam">
+        <nav class="links wrapper" role="navigation" aria-label="Carte du site">
+            <section class="about-site">
+                <section class="about-nav">
+	<section>
+		<a href="/actu"><h1>Actualités</h1></a>
+	    <ul class="grid-2-small-1">
+	        	            <li>
+	                <a href="/iphone">
+	                    iPhone	                </a>
+	            </li>
+	        	            <li>
+	                <a href="/ipad">
+	                    iPad	                </a>
+	            </li>
+	        	            <li>
+	                <a href="/ios">
+	                    iOS	                </a>
+	            </li>
+	        	            <li>
+	                <a href="/app-store">
+	                    App Store	                </a>
+	            </li>
+	        	            <li>
+	                <a href="/domotique">
+	                    Domotique	                </a>
+	            </li>
+	        	            <li>
+	                <a href="/telecoms">
+	                    Télécoms	                </a>
+	            </li>
+	        	            <li>
+	                <a href="/accessoires">
+	                    Accessoires	                </a>
+	            </li>
+	        	            <li>
+	                <a href="/android">
+	                    Android	                </a>
+	            </li>
+	        	            <li>
+	                <a href="/ailleurs">
+	                    Ailleurs	                </a>
+	            </li>
+	        	            <li>
+	                <a href="/services">
+	                    Services	                </a>
+	            </li>
+	        	            <li>
+	                <a href="/apple-tv">
+	                    Apple TV	                </a>
+	            </li>
+	        	    </ul>
+	</section>
+
+	<section class="mts">
+		<h1>Galeries</h1>
+	    <ul class="grid-2-small-1">
+	        <li><a href="http://www.macg.co/galerie?image">Photos</a></li>
+	        <li><a href="http://www.macg.co/galerie?video">Vidéos</a></li>
+	    </ul>
+	</section>
+
+	<section class="mts">
+	<a href="/tests"><h1>Tests</h1></a>
+	<ul class="grid-2-small-1">
+	    	        <li>
+	            <a href="/tests/materiel">
+	                Matériel	            </a>
+	        </li>
+	    	        <li>
+	            <a href="/tests/accessoire">
+	                Accessoire	            </a>
+	        </li>
+	    	        <li>
+	            <a href="/tests/logiciel">
+	                Logiciel	            </a>
+	        </li>
+	    	</ul>
+</section>
+</section>
+
+                <section>
+	<h1>À propos de MacGeneration</h1>
+	<ul class="">
+	                <li>
+                <a href="https://ours.macg.co/mentions-legales/">
+                    Mentions légales                </a>
+            </li>
+	                <li>
+                <a href="https://ours.macg.co/conditions-generales/">
+                    Conditions générales d’utilisation                </a>
+            </li>
+	                <li>
+                <a href="https://ours.macg.co/vie-privee/">
+                    Politique de gestion des données personnelles                </a>
+            </li>
+	                <li>
+                <a href="https://ours.macg.co/equipe/">
+                    Notre équipe                </a>
+            </li>
+	                <li>
+                <a href="https://ours.macg.co/entreprise/">
+                    Notre entreprise                </a>
+            </li>
+	                <li>
+                <a href="https://ioccasion.fr">
+                    Petites Annonces iPhone                </a>
+            </li>
+	    	</ul>
+</section>
+
+<section class="">
+	<h1>Les sites de MacGeneration</h1>
+	<ul class="">
+		<li><a href="http://www.macg.co">MacGeneration</a></li>
+		<li><a href="http://www.igen.fr">iGeneration</a></li>
+		<li><a href="https://www.watchgeneration.fr">WatchGeneration</a></li>
+		<li><a href="https://jeveuxle.top">Je veux le.top</a></li>
+		<li><a href="http://ioccasion.fr">iOccasion</a></li>
+		<li><a href="https://refurbgeneration.com">RefurbGeneration</a></li>
+		<li><a href="https://lekeynote.fr">Le Keynote</a></li>
+		<li><a href="https://laboutique.igen.fr">La boutique du Club iGen</a></li>
+	</ul>
+</section>
+
+<section class="">
+	<h1>Les services de MacGeneration</h1>
+	<ul class="grid-2-small-1">
+		<li><a href="https://www.macg.co/test-de-debit">Test de débit</a></li>
+		<li><a href="https://shop.macg.co">Boutique MacG</a></li>
+	</ul>
+</section>
+
+    <section class="trucs-et-astuces"><h1 class="element">Trucs et Astuces</h1><ul id="secondary-menu" class="links clearfix"><li class="menu-6481 first"><a href="https://www.macg.co/logiciels/2020/02/comment-bien-nettoyer-proteger-et-optimiser-mon-mac-112133" title="">Comment bien nettoyer, protéger et optimiser mon Mac ?</a></li>
+<li class="menu-6479"><a href="https://www.watchgeneration.fr/wearables/2017/08/comment-nettoyer-vos-airpods-7129" title="">Comment nettoyer vos AirPods et AirPods Pro</a></li>
+<li class="menu-6475"><a href="https://www.igen.fr/iphone/2017/12/comment-verifier-letat-et-la-capacite-de-la-batterie-de-votre-iphone-102423" title="">Comment vérifier l&#039;état et la capacité de la batterie de votre iPhone</a></li>
+<li class="menu-6673"><a href="https://www.watchgeneration.fr/sport/2020/03/astuce-une-automatisation-raccourcis-pour-respecter-la-distance-maximale-dun-km-9623" title="">Confinement : pour rester à 1 km de chez vous</a></li>
+<li class="menu-6675"><a href="https://www.igen.fr/ailleurs/2020/10/confinement-notre-nouveau-raccourci-pour-lattestation-de-deplacement-obligatoire-118607" title="">Générez une attestation de déplacement dérogatoire avec notre raccourci</a></li>
+<li class="menu-6477"><a href="https://forums.macg.co/threads/sms-sans-les-noms-de-contacts.1300712/" title="">SMS sans les noms de contacts</a></li>
+<li class="menu-6473 last"><a href="https://www.igen.fr/iphone/2018/09/iphone-xsxr-la-double-sim-et-lesim-comment-ca-marche-105296" title="">iPhone : la double SIM et l&#039;eSIM, comment ça marche ?</a></li>
+</ul></section><section class="">
+        <section class="mts">
+        <h1>Livres</h1>
+        <ul class="grid-2-small-1">
+                            <li>
+                    <a href="https://laboutique.igen.fr/boutique/livre-apple-raccourcis/">
+                        Tout savoir sur Raccourcis                    </a>
+                </li>
+                            <li>
+                    <a href="https://laboutique.igen.fr/boutique/les-nouveautes-dios-14/">
+                        Les nouveautés d’iOS 14                    </a>
+                </li>
+                            <li>
+                    <a href="https://laboutique.igen.fr/boutique/tout-savoir-sur-contacts/">
+                        Tout savoir sur Contacts                    </a>
+                </li>
+                            <li>
+                    <a href="https://laboutique.igen.fr/boutique/le-guide-de-macos-catalina/">
+                        Le guide de macOS Catalina                    </a>
+                </li>
+                            <li>
+                    <a href="https://laboutique.igen.fr/boutique/tout-savoir-sur-les-raccourcis-clavier-sur-mac/">
+                        Tout savoir sur les raccourcis clavier sur Mac                    </a>
+                </li>
+                            <li>
+                    <a href="">
+                                            </a>
+                </li>
+                    </ul>
+    </section>
+</section>
+            </section>
+            <section class="club-igen iGeneration">
+              <a href="https://links.macg.io/5Gnlu">
+              <svg xmlns="http://www.w3.org/2000/svg" width="167.838" height="99.713" viewBox="0 0 167.838 99.713">
+                <g id="couronne-no-text" transform="translate(-15 17)">
+                  <path id="Tracé_1" data-name="Tracé 1" d="M88.6,51.678l20.749,42.633,44.585-16.163a8.046,8.046,0,0,1-.619-3.1,7.855,7.855,0,1,1,5.816,7.7l-19.551,53.694H30.8L11.353,82.694a7.76,7.76,0,0,1-2.206.317,7.963,7.963,0,1,1,7.871-7.99,8.117,8.117,0,0,1-.563,2.96L61.128,93.755l20.63-42.1a7.863,7.863,0,1,1,6.9,0Z" transform="translate(13.815 -53.723)" fill="#fe6626"/>
+                </g>
+              </svg>
+              <div class="card">
+                <h2>Rejoignez le Club iGen 👑</h2>
+                <hr><p>Le Club iGen c'est :</p><ul>
+                  <li>pas de publicité !</li>
+                  <li>un site dédié et personnalisable !</li>
+                  <li>des articles originaux rien que pour vous !</li>
+                  <li>un podcast exclusif !</li>
+                </ul>
+                <hr>
+                <p> Soutenez le travail d'une rédaction indépendante.
+Rejoignez la plus grande communauté Apple francophone !</p>                  <div class="club-cta iGeneration">
+                    <p>Rejoignez-nous !</p>
+                  </div>
+              </div>
+              </a>
+            </section>
+        </nav>
+
+        <div class="colophon wrapper pts txtcenter">
+            <hr />
+            <p>Fièrement publié depuis 1999 par MacGeneration SARL.<p>
+            <p>Service de presse en ligne <a href="http://www.cppap.fr/rubrique.php3?id_rubrique=124">reconnu par la CCPAP</a> sous le numéro 0122 W 94156. Tous droits réservés.</p>
+            <p>Version 1.3. <a href="javascript:googlefc.callbackQueue.push(googlefc.showRevocationMessage)">Réinitialiser réglages données privées</a>
+                .</p>
+        </div>
+    </section>
+</footer>
+  <div class="region region-page-bottom">
+    <script>
+                        var md5_email = 'd41d8cd98f00b204e9800998ecf8427e';
+	                      var sha1_email = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855';
+	                      // script Sirdata
+	                      var sddanVar = { hd_m:md5_email, hd_s:sha1_email};
+	                      var sddanJS=document.createElement('script');sddanJS.src=window.location.protocol+'//js.sddan.com/GS.d?pa=21023&si=2&hd_m='+encodeURIComponent(sddanVar.hd_m)+'&hd_s='+encodeURIComponent(sddanVar.hd_s)+'&r='+encodeURIComponent(document.referrer)+'&u='+encodeURIComponent(document.location.href);document.getElementsByTagName('head')[0].appendChild(sddanJS);
+	                  </script>  </div>
+<script type="text/javascript" src="/sites/www.igen.fr/files/advagg_js/js__Ctwlc6dUQc8xIEYnlXsuyLy73kLl3Hmzmu553oO8fRM__xnhDJsiLPItgd9BtyGcDGyixC8oTh731wjbdXKVLoyQ__aPiMkCj8eh8c7vWA-UgzcaecIz_aLB0a44A7g8Gly-s.js"></script>
+<script type="text/javascript" src="/sites/www.igen.fr/files/advagg_js/js__V8HSJ2dFg88yeRQUlUXKuwAaDdMJBXoto8hYRwQhUS0__z1eEEd_1_boZwA0_SkTvv7wKZIVy3bbjDoQDNxs6fMM__aPiMkCj8eh8c7vWA-UgzcaecIz_aLB0a44A7g8Gly-s.js"></script>
+</body>
+</html>
