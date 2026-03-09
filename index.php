@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
+<!-- Rev: 2026.03.09 -->
 
 <head>
 <?php include 'include/head.html'; ?>
