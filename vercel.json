@@ -1,0 +1,65 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.php",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact.html",
+      "permanent": true
+    },
+    {
+      "source": "/contacts",
+      "destination": "/contact.html",
+      "permanent": true
+    },
+    {
+      "source": "/newsletter",
+      "destination": "/newsletter.html",
+      "permanent": true
+    },
+    {
+      "source": "/newsletter/subscriptions",
+      "destination": "/newsletter.html",
+      "permanent": true
+    },
+    {
+      "source": "/user/login",
+      "destination": "/contact.html",
+      "permanent": true
+    },
+    {
+      "source": "/user/register",
+      "destination": "/contact.html",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
+    }
+  ]
+}
