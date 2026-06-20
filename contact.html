@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact - Lowly</title>
+  <meta name="description" content="Contacter l'equipe Lowly.">
+  <link rel="canonical" href="https://lowly.eu/contact.html">
+  <link rel="icon" href="/assets/images/lowly-logo.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="Accueil Lowly">
+      <img src="/assets/images/lowly-logo.jpg" width="48" height="48" alt="">
+      <span>Lowly</span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav id="site-nav" class="site-nav" aria-label="Navigation principale">
+      <a href="/">Accueil</a>
+      <a href="/newsletter.html">Newsletter</a>
+      <a href="/contact.html" aria-current="page">Contact</a>
+    </nav>
+  </header>
+
+  <main class="page">
+    <section class="page-header">
+      <p class="eyebrow">Contact</p>
+      <h1>Parler a Lowly</h1>
+      <p class="lead">Envoyez une question, une proposition ou un signalement. Le formulaire prepare un e-mail depuis votre client de messagerie.</p>
+    </section>
+
+    <section class="form-section">
+      <form class="form" data-mailto-form data-recipient="contact@lowly.eu">
+        <label>
+          Nom
+          <input type="text" name="name" autocomplete="name" required>
+        </label>
+        <label>
+          E-mail
+          <input type="email" name="email" autocomplete="email" required>
+        </label>
+        <label>
+          Sujet
+          <input type="text" name="subject" required>
+        </label>
+        <label>
+          Message
+          <textarea name="message" rows="7" required></textarea>
+        </label>
+        <button class="button primary" type="submit">Preparer l'e-mail</button>
+        <p class="form-note">Adresse directe : <a href="mailto:contact@lowly.eu">contact@lowly.eu</a></p>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Lowly SARL - publication independante depuis 2021.</p>
+    <nav aria-label="Navigation secondaire">
+      <a href="/newsletter.html">Newsletter</a>
+      <a href="/contact.html">Contact</a>
+    </nav>
+  </footer>
+
+  <script src="/assets/js/main.js" defer></script>
+</body>
+</html>
