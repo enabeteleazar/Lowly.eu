@@ -3,89 +3,73 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Lowly - Actualites, projets et carnets</title>
-  <meta name="description" content="Lowly est un site editorial leger pour publier des actualites, projets et carnets de bord.">
+  <title>Lowly — Technologie, IA et numérique</title>
+  <meta name="description" content="Lowly décrypte l'intelligence artificielle, les produits numériques et les idées qui transforment la tech.">
   <link rel="canonical" href="https://lowly-rho.vercel.app/">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Lowly">
-  <meta property="og:title" content="Lowly">
-  <meta property="og:description" content="Actualites, projets et carnets de bord publies simplement.">
-  <meta property="og:url" content="https://lowly-rho.vercel.app/">
-  <meta property="og:image" content="assets/images/lowly-logo.jpg">
-  <link rel="icon" href="assets/images/lowly-logo.jpg" type="image/jpeg">
   <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
   <header class="site-header">
-    <a class="brand" href="" aria-label="Accueil Lowly">
-      <img src="assets/images/lowly-logo.jpg" width="48" height="48" alt="">
-      <span>Lowly</span>
-    </a>
-    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
-      Menu
-    </button>
+    <a class="brand" href="/" aria-label="Accueil Lowly"><span>lowly</span></a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
     <nav id="site-nav" class="site-nav" aria-label="Navigation principale">
-      <a href="" aria-current="page">Accueil</a>
+      <a href="/" aria-current="page">À la une</a>
+      <a href="#ia">IA</a>
+      <a href="#produits">Produits</a>
       <a href="newsletter.html">Newsletter</a>
-      <a href="contact.html">Contact</a>
+      <a href="contact.html">À propos</a>
     </nav>
   </header>
-
   <main>
     <section class="hero">
       <div class="hero-content">
-        <p class="eyebrow">Publication independante</p>
-        <h1>Lowly</h1>
-        <p class="lead">Un espace leger pour publier des actualites, suivre des projets et partager des idees sans dependance lourde.</p>
+        <p class="eyebrow">Le signal, pas le bruit</p>
+        <h1>La tech qui mérite votre <em>attention.</em></h1>
+        <p class="lead">Analyses, usages et récits sur l’intelligence artificielle, les nouveaux produits et le futur du numérique.</p>
         <div class="actions">
-          <a class="button primary" href="newsletter.html">Recevoir les nouvelles</a>
-          <a class="button secondary" href="contact.html">Nous contacter</a>
+          <a class="button primary" href="#dernieres">Lire les articles</a>
+          <a class="button secondary" href="newsletter.html">Recevoir la sélection</a>
         </div>
       </div>
-      <img class="hero-image" src="assets/images/lowly-logo.jpg" width="1300" height="1300" alt="Illustration Lowly">
+      <div class="signal-art" aria-label="Illustration abstraite d'un signal numérique">
+        <span><strong>◉ LIVE SIGNAL</strong> &nbsp; IA · Produits · Société</span>
+      </div>
     </section>
-
-    <section class="section">
+    <section id="ia" class="section">
       <div class="section-heading">
-        <p class="eyebrow">Ligne editoriale</p>
-        <h2>Un site volontairement simple</h2>
+        <div><p class="eyebrow">À explorer</p><h2>Trois angles pour comprendre demain</h2></div>
+        <p>Une lecture claire des outils qui arrivent et des transformations qu’ils déclenchent.</p>
       </div>
       <div class="feature-grid">
-        <article class="feature">
-          <h3>Actualites</h3>
-          <p>Publier des notes courtes, des annonces et des suivis de projet dans un format facile a maintenir.</p>
-        </article>
-        <article class="feature">
-          <h3>Projets</h3>
-          <p>Documenter les avancees importantes sans imposer de CMS, de base de donnees ou de scripts tiers.</p>
-        </article>
-        <article class="feature">
-          <h3>Contact</h3>
-          <p>Garder un point d'entree clair pour les lecteurs, partenaires ou contributeurs.</p>
-        </article>
+        <article class="feature"><span class="tag">01 / Intelligence artificielle</span><h3>Ce que les modèles changent vraiment</h3><p>Des démos aux usages concrets : travail, création, recherche et apprentissage.</p></article>
+        <article id="produits" class="feature"><span class="tag">02 / Produits</span><h3>Les interfaces qui font la différence</h3><p>Décryptages de produits, de design et des habitudes numériques qu’ils inventent.</p></article>
+        <article class="feature"><span class="tag">03 / Futurs</span><h3>Un numérique plus humain</h3><p>Des idées pour garder le contrôle sur nos outils, nos données et notre attention.</p></article>
       </div>
     </section>
-
-    <section class="section split">
-      <div>
-        <p class="eyebrow">Architecture</p>
-        <h2>Pret pour un hebergement statique</h2>
+    <section id="dernieres" class="section">
+      <div class="section-heading">
+        <div><p class="eyebrow">Dernières lectures</p><h2>À lire maintenant</h2></div>
+        <a href="newsletter.html">Tout recevoir par e-mail →</a>
       </div>
-      <div class="text-block">
-        <p>Le site ne depend plus de PHP, d'un ancien CMS, de scripts publicitaires ou de ressources externes non maitrisees. Les pages sont servies directement en HTML, CSS et JavaScript minimal.</p>
-        <p>Cette base peut etre deployee sur Vercel, Netlify, Nginx, Apache ou n'importe quel hebergement capable de servir des fichiers statiques.</p>
+      <div class="latest-grid">
+        <a class="article-card" href="newsletter.html"><span class="article-meta">Dossier · IA générative</span><h3>Après le chatbot, à quoi ressemblera vraiment notre façon de travailler ?</h3><p>Les assistants deviennent des espaces de production. Voici les questions à se poser avant de les adopter.</p></a>
+        <div class="article-list">
+          <a class="article-card" href="newsletter.html"><span class="article-meta">Produits · 6 min</span><h3>Le retour des outils simples</h3><p>Pourquoi la meilleure interface est parfois celle qui s’efface.</p></a>
+          <a class="article-card" href="newsletter.html"><span class="article-meta">Décryptage · 4 min</span><h3>Ralentir le flux pour mieux s’informer</h3><p>Une autre manière de suivre la tech sans subir l’actualité.</p></a>
+        </div>
+      </div>
+    </section>
+    <section class="section">
+      <div class="newsletter-banner">
+        <div><p class="eyebrow">La newsletter Lowly</p><h2>Une veille qui garde du recul.</h2><p>Un e-mail régulier, des liens choisis et aucune course à l’attention.</p></div>
+        <a class="button primary" href="newsletter.html">S’inscrire gratuitement</a>
       </div>
     </section>
   </main>
-
   <footer class="site-footer">
-    <p>Lowly SARL - publication independante depuis 2021.</p>
-    <nav aria-label="Navigation secondaire">
-      <a href="newsletter.html">Newsletter</a>
-      <a href="contact.html">Contact</a>
-    </nav>
+    <p>Lowly — média indépendant sur la technologie et l’IA.</p>
+    <nav aria-label="Navigation secondaire"><a href="newsletter.html">Newsletter</a><a href="contact.html">À propos & contact</a></nav>
   </footer>
-
   <script src="assets/js/main.js" defer></script>
 </body>
 </html>
