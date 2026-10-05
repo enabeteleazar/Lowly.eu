@@ -14,7 +14,7 @@ function localRefs(doc) {
     .filter(Boolean)
 
   return attrs.filter(
-    (ref) => ref !== '' && !ref.startsWith('http') && !ref.startsWith('mailto:') && ref !== '#',
+    (ref) => ref !== '' && !ref.startsWith('http') && !ref.startsWith('mailto:') && !ref.startsWith('#'),
   )
 }
 
