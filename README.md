@@ -20,15 +20,26 @@ lowly/
 └── README.md
 ```
 
-## Lancement local
+## Installation et vérification
 
 Depuis la racine du projet :
 
 ```bash
-python3 -m http.server 8080
+pnpm install
+pnpm build
 ```
 
-Le site est ensuite disponible sur `localhost:8080`.
+Le site est statique : `pnpm build` vérifie la syntaxe JavaScript et exécute les tests, sans générer de fichiers de sortie.
+
+## Lancement local
+
+```bash
+pnpm dev
+```
+
+Le site est ensuite disponible sur `http://127.0.0.1:3000`. `pnpm start` lance le même serveur statique.
+
+Pour tester l’environnement Vercel localement, utiliser directement `vercel dev`. L’option `--prod` n’est pas disponible sur cette commande : `vercel build --prod` crée un build local ciblant la production, tandis que `vercel --prod` déclenche un véritable déploiement.
 
 ## Deploiement
 

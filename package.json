@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "build": "node --check assets/js/main.js && node --check scripts/serve.js && pnpm test",
+    "dev": "node scripts/serve.js",
+    "start": "node scripts/serve.js",
     "test": "vitest run"
   },
   "devDependencies": {
